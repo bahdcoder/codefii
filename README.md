@@ -15,9 +15,12 @@ Codefii is a superfast micro-framework, the first of its kind delivered as a gen
 
 ## Directory Structure
 <p>
- Codefii/               internally used build tools(development files)
-public/                static files
-vendor/               core framework code
+ <br/>
+ <b style="color:red;">Codefii/ </b>              internally used build tools(development files)
+ <br/>
+ <b style="color:red;">public/     </b>           static files
+ <br/>
+ <b style="color:red;">vendor/   </b>            core framework code
 
   </p>
 
