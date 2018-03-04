@@ -3,13 +3,15 @@
 <p align="center">
 <a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/v/stable" alt="Stable"></a>
 <a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/downloads" alt="Download"></a>
-<a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/v/unstable" alt="Umstable"></a><a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/license" alt="License"></a>
+<a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/v/unstable" alt="Umstable"></a>
+ 
+<a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/license" alt="License"></a>
 </p>
 
 ## About Codefii
 Codefii is a superfast micro-framework, the first of its kind delivered as a general purpose framework to give acces and control and security to web Ninjas. Just as the name implies, codefii is a general purpose framework, it's doesn't force you to write in a particular pattern, once you have a prior knowledge of php you are good to go.
 
-- [Simple and straigt forward](https://codefii.com/documentation).
+- [Simple and straight forward](https://codefii.com/documentation).
 
 
 ## Directory Structure
