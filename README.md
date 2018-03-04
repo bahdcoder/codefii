@@ -3,10 +3,7 @@
 <p align="center">
 <a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/v/stable" alt="Stable"></a>
 <a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/downloads" alt="Download"></a>
-<a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/v/unstable" alt="Umstable"></a>
-
-<a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/license" alt="License"></a>
-
+<a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/v/unstable" alt="Umstable"></a><a href="https://packagist.org/packages/codefii/codefii"><img src="https://poser.pugx.org/codefii/codefii/license" alt="License"></a>
 </p>
 
 ## About Codefii
@@ -15,26 +12,25 @@ Codefii is a superfast micro-framework, the first of its kind delivered as a gen
 - [Simple and straigt forward](https://codefii.com/documentation).
 
 
+## Directory Structure
+<p>
+ Codefii/               internally used build tools(development files)
+public/                static files
+vendor/               core framework code
 
+  </p>
 
-## Getting Started  with Codefii
+## Community
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
+Participate in discussions at <a href="https://forum.codefii.com">forum</a>.
+Community chat on <a href="https://codefii.slack.com">slack</a>.
+Follow us on twitter <a href="https://twitter.com/codefii1">@codefii1</a>.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Reporting Security issues
+If you discover any vulnerability or have any issues you would like to report kindly message the project manager at <a href="mailto:ekeminyd@gmail.com">Prince Darlington</a>
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Codefii  framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Acknowledgement
+The Codefii team would like to thank <a href="http://soodarsoft.com">Soodaroft</a>, 
+all the contributors to the Codefii project and you, the Codefii user.
