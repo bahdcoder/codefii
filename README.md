@@ -25,10 +25,10 @@ Codefii is a superfast micro-framework, the first of its kind delivered as a gen
   </p>
 
 ## Community
-
-Participate in discussions at <a href="https://forum.codefii.com">forum</a>.
-Community chat on <a href="https://codefii.slack.com">slack</a>.
-Follow us on twitter <a href="https://twitter.com/codefii1">@codefii1</a>.
+<br/>
+Participate in discussions at <a href="https://forum.codefii.com">forum</a>.<br/>
+Community chat on <a href="https://codefii.slack.com">slack</a>.<br/>
+Follow us on twitter <a href="https://twitter.com/codefii1">@codefii1</a>.<br/>
 
 ## Reporting Security issues
 If you discover any vulnerability or have any issues you would like to report kindly message the project manager at <a href="mailto:ekeminyd@gmail.com">Prince Darlington</a>
