@@ -130,7 +130,7 @@ class Model
     return $this->action('DELETE',$table,$where);
   }
   //insert method
-  public function create($table,$fields=array())
+  public function insertInTo($table,$fields=array())
   {
       $keys = array_keys($fields);
       $values = null;
