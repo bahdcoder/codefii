@@ -13,18 +13,7 @@ Codefii is a superfast micro-framework, the first of its kind delivered as a gen
 - [Simple and straight forward](https://codefii.com/documentation).
 
 ## Documentation and basic usage
-<h4>Using Controller</h4>
-<p>Normally, controller is where our application logic is written, it is where the core functions of our app is called or imported for usage.
- using codefii controller is the same with every other MVC framework that you know. Let's begin by importing the <b>Controller</b> class from Network.</p>
- <h6>use Network\Controller\Controller;
- class MainController extends Controller {
-  public function index(){
-  
- echo "welcome to codefii";
- }
- }
- 
- </h6>
+
 ## Directory Structure
 <p>
  <br/>
